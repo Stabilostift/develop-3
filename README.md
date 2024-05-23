@@ -1,9 +1,9 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin* 
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Luca Poppe; Noah Menschaert*
 
-Datum
+--/--/--
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
@@ -32,28 +32,6 @@ Hoe onderzocht je dit? Wees volledig.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
-
-## Definition
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
-
-## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
 
 ## Kritische reflectie
 Max. 500 woorden
